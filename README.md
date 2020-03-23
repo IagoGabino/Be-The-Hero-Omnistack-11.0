@@ -1,2 +1,2 @@
-# Semana-OmniStack-11.0
-Aplicação desenvolvida na Semana OmniStack 11.0 da Rocketseat
+# Semana OmniStack 11.0
+Aplicação desenvolvida na Semana OmniStack 11.0 da [Rocketseat](https://rocketseat.com.br/), entre os dias 23/03/2020 e 26/03/2020
